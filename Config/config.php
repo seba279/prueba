@@ -1,7 +1,7 @@
 <?php 
    //VARIABLES GLOBALES
   //define("BASE_URL", "http://localhost/tienda_virtual/");
-  const BASE_URL = "http://localhost/tienda2021";
+  const BASE_URL = "https://seba279.github.io/prueba";
 
   //ZONA HORARIA ARGENTINA
   date_default_timezone_set('America/Argentina/Tucuman');
